@@ -8,9 +8,8 @@ A tool for launching emojis into the air, designed for both VR and desktop users
 
 ### Requirements
 
-- ChilloutVR installed
-- Unity Engine (recommended version: `2021.3.23f1`)
-- CVR Creator Kit ([Download Here](https://chilloutvr.de/download))
+- Unity Engine (version: `2021.3.23f1`)
+- CVR Content Creation Kit ([Download Here](https://developers.abinteractive.net/cck/setup/))
 
 ---
 
